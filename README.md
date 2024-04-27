@@ -93,7 +93,7 @@ If you want to modify and redistribute the source code files available in this r
 CX3D Game Framework (https://github.com/PardCode/CX3D)
 <project name>, <website link or nothing>
   
-Copyright (c) 2019-2022, PardCode
+Copyright (c) 2019-2024, PardCode
 Copyright (c) <your years>, <your name>  
 ...
 ```
